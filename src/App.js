@@ -1,9 +1,9 @@
-import Footer from "./componets/Footer";
-import Header from "./componets/Header";
-import NavBar from "./componets/NavBar";
-import Profile from "./componets/Profile";
+import Footer from "./components/Footer";
+import Header from "./components/Header";
+import NavBar from "./components/NavBar";
+import Profile from "./components/Profile";
 
-import "./App.css"
+import "./App.css";
 
 const App = () => {
 	return (
