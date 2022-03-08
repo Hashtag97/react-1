@@ -21,7 +21,7 @@
 
 .appNav {
 	grid-area: nav;
-	background-color: red;
+	background-color: rgb(202, 115, 115);
 }
 
 .appContent {

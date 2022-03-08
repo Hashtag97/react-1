@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 const Header = () => {
 	return (
 		<header className="appHeder">
